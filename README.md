@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align: "center"> Hello World 👋 I`m Paulo Moss 😁</h1>
 
-<!--
-**PauloMoss/paulomoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" alt="GIF" src="me,myself and I.png" width="320" height="200" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 😜 &nbsp;About Me </h2>
+- 🔭 I’m a Civil Engineer turned Software developer.
+- 🌱 I’m currently learning React and Node js
+- 💬 Ask me about Anything, if I don`t know I will search for it.
+- ⚡ Fun fact: I take good care of my health and love to exercise.
+
+<br />
+<br />
+
+### Talk with me, excited to meet new people:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/paulo-moss-hasselmann-de-moraes-08611b199/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:paulo.moss@poli.ufrj.br)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_paulomoss/)
+
+<br />
+
+---
