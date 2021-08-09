@@ -4,10 +4,13 @@
 
 
 <h2> 😜 &nbsp;About Me </h2>
+<ul>
+
 - 🔭 I’m a Civil Engineer turned Software developer.
 - 🌱 I’m currently learning React and Node js
 - 💬 Ask me about Anything, if I don`t know I will search for it.
 - ⚡ Fun fact: I take good care of my health and love to exercise.
+</ul>
 
 <br />
 <br />
