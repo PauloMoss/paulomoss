@@ -7,13 +7,13 @@
 <ul>
 
 - 🎓 I’m a Civil Engineer turned Software developer.
-- 🌱 I’m currently learning React and Node js.
 - 💻 I enjoy writing a clean and understandable code.
-- 💬 Ask me about Anything, if I don`t know I will search for it.
-- ⚡ Fun fact: I take good care of my health and love to exercise.
+- 🏋️‍♂️ I take good care of my health and I like to exercise.
+- 💬 Ask me about anything, if I don't know I'll search for it.
+- ⚡ Fun fact: I have a driver's license, but I don't drive. I just love to ride my motocycle.
+.
 </ul>
 
-<br />
 <br />
 
 ### Talk with me, I am excited to meet new people:
