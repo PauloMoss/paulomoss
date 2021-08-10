@@ -1,4 +1,4 @@
-<h1 align: "center"> Hello World 👋 I`m Paulo Moss 😁</h1>
+<h2 align: "center"> Hello World 👋 I`m Paulo Moss 😁</h2>
 
  <img align="right" alt="GIF" src="me,myself and I.png" width="320" height="200" />
 
